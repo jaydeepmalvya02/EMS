@@ -1,0 +1,21 @@
+/* General Reset */
+@import "tailwindcss";
+* {
+ color: white;
+ 
+ 
+}
+
+/* Body Styling */
+
+body {
+  
+  background-color: #000000;
+  
+  
+}
+#tasklist::-webkit-scrollbar {
+  display: none;
+  
+}
+/* Header Styling */
